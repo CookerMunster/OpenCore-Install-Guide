@@ -105,3 +105,4 @@ Lastly, to remove writing to disk set the following:
 * AppleDebug = `NO`
 * ApplePanic = `NO`
 * Target = `0`
+![Target Value](https://user-images.githubusercontent.com/52347783/111095055-960d7980-8577-11eb-84fc-51f2908452d3.jpg)
